@@ -1,1 +1,36 @@
 
+body{
+    /* background-color: black; */
+    /* color: white; */
+
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+ul{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+li{
+    list-style: none;
+    /* color: white; */
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+    /* flex-direction: column;  */
+    width: 600px;
+  
+
+}
